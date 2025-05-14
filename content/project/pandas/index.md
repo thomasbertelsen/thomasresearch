@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Mini-RISK
+date: 2025-10-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - RISK
+  - Anxiety
+  - Research
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The current large scale project where we will implement mini-risk in all of southern norway.
 
 <!--more-->
